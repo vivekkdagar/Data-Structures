@@ -80,6 +80,11 @@ Table Of Contents:
 	2. Finding sum of elements
 	3. Counting leaf and degree 2 nodes
 	4. 4 types of traversals: InOrder, PostOrder, LevelOrder, PreOrder
+	
+13. **Graph**
+	1. Implementation (adjacency matrix) and traversals using BFS and DFS
+	2. Prims Algorithm to find MST
+	3. Kruskals Algorithm to find MST
 
  
 
