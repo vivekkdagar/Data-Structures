@@ -1,3 +1,4 @@
+
 # Data-Structures
 Contains implementation of various data structures. Source is Abdul Bari's DSA course on Udemy.
 
@@ -86,12 +87,9 @@ Table Of Contents:
 	2. Prims Algorithm to find MST
 	3. Kruskals Algorithm to find MST
 
- 13. **Heap (max heap)**
-	1. Implementation using array
-	2. Insertion in a heap
-	3. Deletion in a heap
-	4. Heapify
+ 14. **Heap (max heap)**
+	 1. Implementation using array
+	 2. Insertion and deletion
+	 3. Heapify operation
 
-                           |
-
-
+                           
