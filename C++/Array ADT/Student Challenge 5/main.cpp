@@ -44,8 +44,8 @@ void find3(vector<int> arr, int k) {
 }
 
 int main() {
-    vector<int> v1 = {0, 1};
-    cout << missingNumber(v1);
+    vector<int> v1 = {1, 2,3,4,5,6,7,8,9,10};
+    cout << find1(v1, 10);
 //    for(int i : v2)
 //        cout << i << " ";
 }
