@@ -18,7 +18,7 @@ double horner(int x, int n) {
     if (n == 0)
         return s;
     s = 1 + x * s / n;
-    return e(x, n - 1);
+    return horner(x, n - 1);
 }
 
 // Iterative method
